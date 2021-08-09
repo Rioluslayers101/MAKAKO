@@ -1,22 +1,67 @@
 .fondo{
-
 position: absolute;
 width: 100%;
 height: 100%;
 left: 0px;
 top: 0px;
-
 background: #C4C4C4;
-
 }
 .flexbox{
-
 position: fixed;
 width: 695px;
 height: 412px;
 left: 372px;
 top: 306px;
-
 background: #F0EEEE;
-
+}
+.texto{
+position: fixed;
+width: 112px;
+height: 28px;
+left: 840px;
+top: 379px;
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 28px;
+color: #000000;
+}
+.texto2{
+position: fixed;
+width: 200px;
+height: 120px;
+left: 800px;
+top: 457px;
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 13px;
+line-height: 15px;
+text-align: center;
+color: #000000;
+}
+.flexbox2{
+position: fixed;
+width: 90px;
+height: 23px;
+left: 855px;
+top: 623px;
+background: #C4C4C4;
+border-radius: 20px;
+}
+.VM{
+position: fixed;
+width: 48px;
+height: 15px;
+left: 876px;
+top: 627px;
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 13px;
+line-height: 15px;
+text-align: center;
+color: #000000;
+display: flex;
 }
